@@ -1,0 +1,13 @@
+{
+  "slug": "home",
+  "title": "Clawback",
+  "description": "Sales intel that shows you what to say next.",
+  "sections": [
+    {
+      "type": "hero",
+      "headline": "Clawback",
+      "subheadline": "Instant sales intel and talk tracks before the meeting.",
+      "cta": { "label": "Get a demo", "href": "#" }
+    }
+  ]
+}
