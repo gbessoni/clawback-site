@@ -1,0 +1,16 @@
+{
+  "slug": "live-test",
+  "title": "Live Test",
+  "description": "Live page",
+  "sections": [
+    {
+      "type": "hero",
+      "headline": "Live Publish Works",
+      "subheadline": "This page was committed to GitHub and deployed by Vercel.",
+      "cta": {
+        "label": "Email",
+        "href": "mailto:hello@clawback.now"
+      }
+    }
+  ]
+}
