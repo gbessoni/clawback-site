@@ -1,0 +1,13 @@
+{
+  "slug": "sales-intel",
+  "title": "Sales Intel",
+  "description": "Know exactly what to say on every call.",
+  "sections": [
+    {
+      "type": "hero",
+      "headline": "Sales Intel",
+      "subheadline": "Know exactly what to say on every call.",
+      "cta": { "label": "Get a demo", "href": "mailto:hello@clawback.now" }
+    }
+  ]
+}

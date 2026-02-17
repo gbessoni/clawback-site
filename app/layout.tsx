@@ -27,6 +27,27 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <header className="bg-[#0a0a0a] border-b border-gray-800 sticky top-0 z-50">
+          <nav className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
+            <a href="/" className="text-lg font-bold text-white">
+              Clawback
+            </a>
+            <div className="flex items-center gap-8">
+              <a href="#how-it-works" className="text-sm text-gray-400 hover:text-white transition-colors">
+                How it works
+              </a>
+              <a href="#pricing" className="text-sm text-gray-400 hover:text-white transition-colors">
+                Pricing
+              </a>
+              <a
+                href="#"
+                className="px-4 py-2 border border-gray-700 text-white text-sm font-medium rounded-lg hover:border-gray-600 transition-colors"
+              >
+                Sign in
+              </a>
+            </div>
+          </nav>
+        </header>
         {children}
       </body>
     </html>

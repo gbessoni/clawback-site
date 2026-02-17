@@ -1,0 +1,16 @@
+{
+  "slug": "demo",
+  "title": "Demo",
+  "description": "Book a demo for Clawback.",
+  "sections": [
+    {
+      "type": "hero",
+      "headline": "Get a Clawback demo",
+      "subheadline": "We’ll show you Sales Intel + Research in 2 minutes.",
+      "cta": {
+        "label": "Email us",
+        "href": "mailto:hello@clawback.now"
+      }
+    }
+  ]
+}
